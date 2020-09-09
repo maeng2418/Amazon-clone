@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor with Built-in Speakers and VESA Mounting, Rotating Portrait & Landscape, Tilt, and HDMI & VGA Ports (1KL30AA) - Black",
+      "price": 109.99,
+      "rating": 4,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31PTviHMeUL._AC_US160_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "price": 29.99,
+      "rating": 5,
+      "image": "https://m.media-amazon.com/images/I/81-QB7nDh4L._AC_UY218_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "FIT KING Leg Air Massager for Circulation and Relaxation Foot and Calf Massage with Handheld Controller 3 Intensities 2 Modes(with 2 Extensions)",
+      "price": 98.58,
+      "rating": 3,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417oXmPnrmL._AC_SY600_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pokemon Pikachu 8 Plush - Officially Licensed and Stuffed Animal Material",
+      "price": 12.93,
+      "rating": 4,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410IWzsZhvL._AC_SY400_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black",
+      "price": 299,
+      "rating": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sAtKgDkDL._AC_SY400_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Saucony Women's Jazz Original Sneaker",
+      "price": 129,
+      "rating": 3,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/610698IjYLL._AC_UY580_.jpg"
+    }
+  ]
+}
