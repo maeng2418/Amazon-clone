@@ -20,7 +20,7 @@ const Subtotal = () => {
           </>
         )}
         decimalScale={2} // 소수점 두자리
-        value={basket.reduce((acc, cur) => acc + cur.price, 0)} // 숙제
+        value={basket?.reduce((acc, cur) => acc + cur.price, 0)} // 숙제
         displayType={"text"}
         thousandSeparator={true}
         prefix={"$"}
